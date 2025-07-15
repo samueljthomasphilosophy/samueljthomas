@@ -88,6 +88,7 @@
         <ul class="space-y-2 px-5">
             <li><a href="#publications_academic" class="hover:font-bold selected">Academic Publications</a></li>
             <li><a href="#publications_public" class="hover:font-bold">Public Philosophy</a></li>
+            <li><a href="#presentations_academic" class="hover:font-bold selected">Academic Presentations</a></li>
             <li><a href="#wip" class="hover:font-bold selected">Works in Progress</a></li>
 
         </ul>
@@ -139,6 +140,46 @@
                 text="The purpose of this essay is to analyze the effect Spinoza’s insights have had on Marxism. Thus, it will ignore similar but unrelated questions. It will not analyze the current of thinkers who came after Marx’s death who drew upon both Spinoza and Marx to form a new line of thought. This paper will not touch on the personal lives of the two men. The fact that Spinoza was a lens grinder or that Marx was a newspaper editor does not affect the argument. This paper will not touch on the points of difference between the two. The fact that two thinkers differ on a certain point does not entail that one cannot have influenced the other."
             />
         </div>
+                <!-- PRESENTATIONS -->
+                <div id="presentations_academic" class="section">
+                    <h2> Academic Presentations </h2>
+                    <Card
+                        publisher="First Environmental Humanities Spring Gathering"
+                        title="Captial and the Crisis on the Colorado"
+                        link=""
+                        date="2 May 2025"
+                        text=""
+                    />
+                <Card
+                    publisher="8th Tarbiat Modares University Student Philosophy Conference"
+                    title="A Machiavellian Analysis of Italian Fascism"
+                    link=""
+                    date="22 December 2021"
+                    text="This essay explores the connection between the “gentlemen” of Machiavelli and tyranny, arguing that Machiavelli’s theory can explain fascism as an anti-republican ideology. Thus, this essay does not limit itself to the exposition of Machiavelli’s theory of the state, but also includes an analysis of fascism as it was born after the First World War. The relation between the class structure of a state and its form of government is not a relic of the past. The gentlemen of today, namely capitalists, damage a republic for reasons like those Machiavelli gives. Thus, Machiavelli’s analysis sheds light on capitalism."
+                />
+                <Card
+                    publisher="Western Michigan University Graduate Student Conference"
+                    title="Lasciate ogni speranza: Despair as a Virtue"
+                    link=""
+                    date="19-20 November 2021"
+                    text="In “Meekness and ‘Moral’ Anger,” Glen Pettigrove argues that according to a Humean definition of virtue, on which a “virtue is a quality of mind or temper that tends to be useful or agreeable to oneself or to others,”1 meekness (i.e., the tendency to be slow to anger) would qualify as a virtue. I argue that if Pettigrove’s conception of meekness as a virtue is correct, then despair (i.e., the tendency for one to forego hope for one’s own happiness) would also be a virtue which reigns in the excesses of anger, and furthermore is one which does so more fully than meekness. In Section 1, I give a brief outline of Pettigrove’s argument and define relevant terms, before giving an account of despair and its counterpart, self-love, according to the theory of emotion developed in Italian philosopher Giacomo Leopardi’s Zibaldone di pensieri. I clarify that the type of despair under examination in the essay is called “ancient despair,” in which one does not have any hope for one’s own happiness, and instead sublimates any hope for one’s own happiness into hope for others’ happiness. In Section 2, I argue that despair would be a virtue under Pettigrove’s Humean definition. Namely, I argue that despair is beneficial to others because by foregoing one’s own happiness, one can focus on promoting the common good. Despair is beneficial to oneself because it undercuts the hope that is the root of unhappiness. It is agreeable to others because foregoing hope for one’s own happiness allows one to sublimate the desire for happiness onto others. Finally, it is agreeable to oneself because it undercuts the selflove that gives rise to unpleasant emotions such as anger and boredom."
+                />
+                <Card
+                    publisher="ASU Undergraduate Philosophy Club Panel on Dehumanization"
+                    title="The Incoherence of the Political: Dehumanization in the Work of Carl Schmitt"
+                    link="https://www.youtube.com/watch?v=-efrBXk4Uus"
+                    date="12 March 2021"
+                    text="The purpose of this essay is to draw upon work in dehumanization to argue that certain forms of dehumanization, namely objectification and the denial of others’ agency, entail an inconsistency in the dehumanizer’s beliefs, in that it requires the dehumanizer to simultaneously hold the dehumanized to be human and less than human. However, I further argue that one can objectify or view oneself as lacking agency (the latter of which I call abnegation), and that these processes also entail a similar incoherence in thought, namely that such acts require an agent to act in such a way as to assume that the agent lacks the capacity to act. I then apply this analysis of dehumanization to the political thought of Carl Schmitt, outlining the friend/enemy distinction present in The Concept of the Political and the conception of sovereignty which he outlines in Political Theology. I argue that the concepts of the friend/enemy distinction and the sovereign run into inconsistencies in thought analogous to inconsistencies in dehumanization, namely that the friend/enemy distinction allows one to view the enemy as both human and less than human, while submission to the sovereign is incoherent for reasons analogous to the inconsistencies in self-objectification and abnegation in that it requires one to treat oneself as if one lacked agency and moral autonomy."
+                />
+                <Card
+                    publisher="2019 ASU Undergraduate Philosophy Conference"
+                    title="Formalization and Ostention as Problems for the Causal-Historical Theory of Naming"
+                    link=""
+                    date="23 March 2019"
+                    text="In this paper I will argue that if the Causal-Historical Theory of Naming, as Kripke and Gareth Evans present it, is true, then we do not know the meaning of proper names, and that this presents a problem for the theory. I first present the theory as both Kripke and Evans have described it in Section I. While Section II covers problems with this theory, its subsections deal with different issues with the theory. In Section II.A. I present an example that Evans uses to justify his modifications to the Causal-Historical Theory, before explaining why I think that Evans’ theory is insufficient to describe how proper names refer, modifying his example to show the limits of the theory. In Section II.B. I argue that Kripke’s description of baptism would entail that we know less about the meaning of proper names than we in fact do, and that this presents a problem for the Causal-Historical Theory as a whole. I conclude that since it is common to understand the meaning of proper names, the Causal-Historical Theory of Naming is false."
+                />                        
+                </div>
+                
         <div id="wip" class="section">
             <h2> Works in Progress </h2>
             <Card

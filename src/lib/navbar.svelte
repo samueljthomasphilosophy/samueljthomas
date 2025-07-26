@@ -1,5 +1,6 @@
 <script lang="ts">
     import logo from '../assets/sam1_.png'
+    import phil from '../assets/philppl.svg'
     import { base } from '$app/paths';
     import '@fortawesome/fontawesome-free/css/all.min.css'
 
@@ -91,7 +92,8 @@
 
             <div class="flex items-center space-x-5 text-gray-300 ">
                 <a class="flex hover:text-blue-500 transition-colors duration-200"
-                    href="https://philpeople.org/profiles/samuel-j-thomas"> PhilPeople
+                    href="https://philpeople.org/profiles/samuel-j-thomas">
+                    <img class="h-4 object-cover" src={phil}>
                 </a>
 
             <div class="flex items-center space-x-5 text-gray-300 ">
